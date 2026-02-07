@@ -6,7 +6,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/Adobe Express - From KlickPin CF Explore the Science of Color and Light.gif');
+		$(".banner-image").backstretch('images/12802091_1280_720_30fps-ezgif.com-optimize.gif');
 		
 		// Fixed header
 		//-----------------------------------------------
