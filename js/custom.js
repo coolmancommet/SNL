@@ -6,7 +6,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/12802091_1280_720_30fps-ezgif.com-optimize.gif');
+		$(".banner-image").backstretch('images/12802091_1280_720_30fps-ezgif.com-video-to-avif-converter.avif');
 		
 		// Fixed header
 		//-----------------------------------------------
